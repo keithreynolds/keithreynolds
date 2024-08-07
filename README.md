@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Keith 👋
+
+- 🔭 I’m having fun in my first advisory role at [Dablr.io](https://www.dablr.io/). 
+- 🤔 I’m looking for help finding PM leadership roles. 
+- 📚 I wrote a popular procedure about how I used GitHub to host a blazing fast portfolio site [here](https://www.linkedin.com/pulse/how-host-blazing-fast-portfolio-page-59-minutes-free-keith-reynolds-wplwc/).
 
 <!--
 **keithreynolds/keithreynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
