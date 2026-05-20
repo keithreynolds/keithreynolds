@@ -1,5 +1,7 @@
 ### Hi, I'm Keith 👋
 
+🔭 I’m currently working on [career-coach](https://career-coach-kprfirstvc.vercel.app/), an interactive resume scoring app to help you level up your career
+
 - 🔭 I’m having fun in my first advisory role at [Dablr.io](https://www.dablr.io/). 
 - 🤔 I’m looking for help finding PM leadership roles. 
 - 📚 I wrote a popular procedure about how I used GitHub to host a blazing fast portfolio site [here](https://www.linkedin.com/pulse/how-host-blazing-fast-portfolio-page-59-minutes-free-keith-reynolds-wplwc/).
