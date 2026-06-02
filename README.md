@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Keith 
 
-🏗️ I’m currently working on [RateMyResume](https://RateMyResume.app/), a lightweight  career coach that scores your resume vs a job rec and give you actionable feedback. My goal is for it to help you level up your career. Try it today. It will always be free. 
+🏗️ I’m currently working on [RateMyResume](https://RateMyResume.app/), a lightweight career coach that asks you a few questions, scores your resume and provides actionable feedback. My goal is for it to help you level up your career. Try it today. It will always be free. 
 
 - 🔭 I’m having fun in my first advisory role at [Dablr.io](https://www.dablr.io/). 
 - 🤔 I’m looking for help finding PM leadership roles. 
