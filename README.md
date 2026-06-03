@@ -2,7 +2,7 @@
 
 🏗️ I’m currently working on [RateMyResume](https://RateMyResume.app/), a lightweight career coach that asks you a few questions, scores your resume and provides actionable feedback. My goal is for it to help you level up your career. Try it today. It will always be free. 
 
-- 🔭 I’m having fun in my first advisory role at [Dablr.io](https://www.dablr.io/) and a stealth agentic startup.
+- 🔭 I’m having fun in advisory roles at [Dablr.io](https://www.dablr.io/) and a stealth agentic startup.
 - 🤔 I’m looking for help finding PM leadership roles. 
 - 📚 I wrote a popular procedure about how I used GitHub to host a blazing fast portfolio site [here](https://www.linkedin.com/pulse/how-host-blazing-fast-portfolio-page-59-minutes-free-keith-reynolds-wplwc/).
 
