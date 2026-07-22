@@ -1,4 +1,12 @@
-## Hi there 👋
+### 👋 Hi, I'm Keith 
+
+🏗️ I'm working on micro apps like [neverpost](https://neverpost.app?utm_source=click&utm_medium=GitHubHome), a serverless privacy-focused journaling app, and [RateMyResume](https://RateMyResume.app/?utm_source=click&utm_medium=GitHubHome), a lightweight career coach that asks you a few questions, scores your resume and provides actionable feedback. 
+
+My goal is to test my hypotheses about fulfilling unmet user needs with functional apps and evaluating feedback. Try them today. The web versions will always be free. 
+
+- 🔭 I’m having fun in advisory roles at [Dablr.io](https://www.dablr.io/) and a stealth agentic startup.
+- 🤔 I’m looking for help finding PM leadership roles. 
+- 📚 I wrote a popular procedure about how I used GitHub to host a blazing fast portfolio site [here](https://www.linkedin.com/pulse/how-host-blazing-fast-portfolio-page-59-minutes-free-keith-reynolds-wplwc/).
 
 <!--
 **keithreynolds/keithreynolds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
