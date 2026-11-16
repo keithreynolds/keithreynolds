@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Keith 
 
-🏗️ I'm working on micro apps like [neverpost](https://neverpost.app?utm_source=click&utm_medium=GitHubHome), a serverless privacy-focused journaling app, and [RateMyResume](https://RateMyResume.app/?utm_source=click&utm_medium=GitHubHome), a lightweight career coach that asks you a few questions, scores your resume and provides actionable feedback. 
+🏗️ I'm working on [OpenWith Music](https://music.openwith.app?utm_source=click&utm_medium=GitHubHome), a universal playlist sharing app that helps you organize and share your streaming and self-hosted music. I'm looking for beta testers!
+
+🚀 I've shipped micro apps like [neverpost](https://neverpost.app?utm_source=click&utm_medium=GitHubHome), a free serverless micro-journal, [Neverpost Circles](https://circles.neverpost.app?utm_source=click&utm_medium=GitHubHome), a private Twitter-like groupchat, and [RateMyResume](https://RateMyResume.app/?utm_source=click&utm_medium=GitHubHome), a lightweight career coach that asks you a few questions, scores your resume and provides actionable feedback. 
 
 My goal is to test my hypotheses about fulfilling unmet user needs with functional apps and evaluating feedback. Try them today. The web versions will always be free. 
 
